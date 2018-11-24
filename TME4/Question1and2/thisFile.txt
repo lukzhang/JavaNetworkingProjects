@@ -1,0 +1,15 @@
+Server: smtp.gmail.com
+User: 729HomerSimpson
+Password: AthabascaCOMP348!
+To: 729stevebrown@gmail.com
+CC: 729brocklesnar@gmail.com, 729damienscott@gmail.com, 729michaelstonebridge@gmail.com
+BCC: 729warrenbrown@gmail.com, 729samuelwyatt@gmail.com, res.student@gmail.com
+Subject: Hello Hello
+Body: 
+To Whom this may concern,
+
+Some stuff. 
+Some stuff. 
+Some stuff....
+
+Have a good day!
